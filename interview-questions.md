@@ -8,25 +8,25 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
-Your answer:
+Your answer: JSX allows you to write javascript 
 
 Researched answer:
 
 2. What is yarn? What file(s) are modified in a React application when you run yarn?
 
-Your answer:
+Your answer: To my knowledge yarn is a command in the terminal that unloads and creates a bunch of files for a react application. 
 
-Researched answer:
+Researched answer: Yarn is a package manager for your code, it replaces the existing workflow for other package managers, Yarn is faster and more reliable.
 
 3. What is an anonymous function in JavaScript?
 
-Your answer:
+Your answer: An anonymous function is just a empty function. 
 
 Researched answer:
 
 4. What is the difference between state values and props in React?
 
-Your answer:
+Your answer: State 
 
 Researched answer:
 
