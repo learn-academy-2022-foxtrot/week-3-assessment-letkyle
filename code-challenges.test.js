@@ -2,9 +2,7 @@
 
 // --------------------1) Create a function that takes in a number (greater than 2) and returns an array that length containing the numbers of the Fibonacci sequence.
 
-
 // a) Create a test with expect statements for each of the variables provided.
-
 
 // PSEUDOCODE:
 // create a test starting with describe and the function name "fib" with the information provided and desired output
@@ -69,7 +67,6 @@ describe("leastToGreatest", () => {
     })
   })
   
-  
 // b) Create the function that makes the test pass.
 // PSEUDOCODE: created a function named leastToGreatest, created an array to pass through wanted array
 //at first I thought of using the method filter but that did not work, and then i found the method .sort 
@@ -81,7 +78,6 @@ describe("leastToGreatest", () => {
   //output: PASS
 
 // --------------------3) Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.
-
 
 // a) Create a test with expect statements for each of the variables provided.
 
@@ -116,4 +112,3 @@ describe("leastToGreatest", () => {
     }
 
     //output:PASS
-    
