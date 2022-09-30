@@ -1,5 +1,3 @@
-
-
 // --------------------1) Create a function that takes in a number (greater than 2) and returns an array that length containing the numbers of the Fibonacci sequence.
 
 // a) Create a test with expect statements for each of the variables provided.
